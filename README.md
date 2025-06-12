@@ -22,7 +22,7 @@ DVBTrans 是一个专门用于处理 MPEGTS 流中字幕的自动翻译工具。
 
 ## 翻译功能依赖项
 - 使用OPENAI API，需要APIKEY
-- 使用GOOGLE GEMINI 2.0 FLASH(LITE) API, 需要APIKEY
+- （建议，速度较快）使用GOOGLE GEMINI 2.0 FLASH(LITE) API, 需要APIKEY
 - 自建本地大模型完成翻译
 
 ## 播放器
