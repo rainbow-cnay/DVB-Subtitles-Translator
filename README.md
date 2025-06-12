@@ -19,6 +19,15 @@ DVBTrans 是一个专门用于处理 MPEGTS 流中字幕的自动翻译工具。
 - 存储MPEGTS流的TS文件
 - TS流媒体，可来自OPENATV、OPENPLI等类似的DVB-S/S2、DVB-T/T2接收机的节目流
 
+## 翻译功能依赖项
+- 使用OPENAI API，需要APIKEY
+- 使用GOOGLE GEMINI 2.0 FLASH(LITE) API, 需要APIKEY
+- 自建本地大模型完成翻译
+
+## 播放器
+- 电脑上，Windows下可用POTPLAYER、MPC-HC、VLC PLAYER等，LINUX下可用OPEN_TV、YUKI-IPTV等
+- 安卓系统，建议 IPTV 或 IPTV PRO
+
 ## 使用说明
 
 ### 1. 文件转换模式
